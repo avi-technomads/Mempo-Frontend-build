@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkMempoverse=self.webpackChunkMempoverse||[]).push([[4176],{84176:function(e,s,p){e.exports=p.p+"static/media/ThemeColor.47ee629f1736c8a746d9.md"}}]);

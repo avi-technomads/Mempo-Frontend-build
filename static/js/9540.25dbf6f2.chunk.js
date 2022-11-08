@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkMempoverse=self.webpackChunkMempoverse||[]).push([[9540],{89540:function(e,s,f){e.exports=f.p+"static/media/Offset.b3fb6ad88931e989f866.md"}}]);

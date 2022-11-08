@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkMempoverse=self.webpackChunkMempoverse||[]).push([[1250],{81250:function(e,s,p){e.exports=p.p+"static/media/Example.5ebc75745fdd50029a66.md"}}]);

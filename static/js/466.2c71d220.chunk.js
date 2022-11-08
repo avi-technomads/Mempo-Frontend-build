@@ -1,2 +1,0 @@
-(self.webpackChunkMempoverse=self.webpackChunkMempoverse||[]).push([[466],{9466:function(e){e.exports=function(){"use strict";return{name:"en",weekdays:"Sunday_Monday_Tuesday_Wednesday_Thursday_Friday_Saturday".split("_"),months:"January_February_March_April_May_June_July_August_September_October_November_December".split("_")}}()}}]);
-//# sourceMappingURL=466.2c71d220.chunk.js.map

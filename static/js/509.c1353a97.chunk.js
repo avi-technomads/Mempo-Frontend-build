@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkMempoverse=self.webpackChunkMempoverse||[]).push([[509],{9509:function(e,n,u){u.r(n);u(2791);var r=u(3329);n.default=function(){return(0,r.jsx)("div",{children:"GroupsingleMenuItemView"})}}}]);
-//# sourceMappingURL=509.c1353a97.chunk.js.map
